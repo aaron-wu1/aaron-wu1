@@ -5,8 +5,8 @@
 - 🔭 &nbsp; Exploring new technologies and engineering to help others!
 - 🎓 &nbsp; Studying Computer Science at University of California, Santa Cruz.
 - 💼 &nbsp; Working as a Full Stack Developer at Jlab smart sensing.
-- 🌱 &nbsp; Learning more about Distributed Systesms and Systems Design.
-- 👯 &nbsp; Currently I’m looking for a software enginering internship / new grad role.
+- 🌱 &nbsp; Learning more about Distributed Systems and System Design.
+- 👯 &nbsp; Currently I’m looking for a software engineering internship / new grad role.
 
 <h3>🛠 &nbsp;Tech Stack </h3>
 
