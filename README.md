@@ -3,10 +3,10 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🔭 &nbsp; Exploring new technologies and engineering to help others!
-- 🎓 &nbsp; Studying Computer Science at University of California, Santa Cruz.
-- 💼 &nbsp; Working as a Full Stack Developer at Jlab smart sensing.
+- 🎓 &nbsp; Studying Computer Science at University of California, San Diego.
+- 💼 &nbsp; Working as a Full Stack Developer at jlab in smart sensing.
 - 🌱 &nbsp; Learning more about Distributed Systems and System Design.
-- 👯 &nbsp; Currently I’m looking for a software engineering internship / new grad role.
+- 👯 &nbsp; Currently I’m looking for a software engineering internship for summer 2025!
 
 <h3>🛠 &nbsp;Tech Stack </h3>
 
