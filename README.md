@@ -1,6 +1,6 @@
-<h2> Hey there! I'm Aaron.</h2>
+<h1> Hey there! I'm Aaron.</h1>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
 - 🎓 &nbsp; Studying Computer Science at University of California, San Diego.
 - 👯 &nbsp; Currently I’m looking for a software engineering internship for summer 2025!
@@ -33,4 +33,4 @@
 <a href="mailto:aaronwu234@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aaronwu234@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <a href="https://aaronwu.dev/"><img alt="Website" src="https://img.shields.io/badge/Website-aaronwu.dev-blue?style=flat-square&logo=google-chrome"></a>
 </p>
-<h3>Check out some of my projects below!</h3>
+<h1>Check out some of my projects below!</h1>
