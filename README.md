@@ -25,7 +25,7 @@
 
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaron-wu1&theme=tokyonight&show_icons=true&hide_rank=true&include_all_commits=true&rank_icon=github") ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaron-wu1&layout=compact&hide_progress=true) -->
 <br/>
-
+<!--
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
@@ -33,4 +33,5 @@
 <a href="mailto:aaronwu234@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aaronwu234@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <a href="https://aaronwu.dev/"><img alt="Website" src="https://img.shields.io/badge/Website-aaronwu.dev-blue?style=flat-square&logo=google-chrome"></a>
 </p>
+-->
 <h1>Check out some of my projects below!</h1>
