@@ -16,9 +16,8 @@
 - &nbsp; Databases: Firebase, PostgreSQL, MySQL
 
 
-<!-- <a href="https://github.com/aaron-wu1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aaron-wu1&theme=buefy&show_icons=true" />
-</a> -->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaron-wu1&theme=tokyonight&show_icons=true&hide_rank=true&include_all_commits=true&rank_icon=github") ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaron-wu1&layout=compact)
 
 <br/>
 
