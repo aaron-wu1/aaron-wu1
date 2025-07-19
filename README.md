@@ -3,7 +3,9 @@
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
 - 🎓 &nbsp; Studying Computer Science at University of California, San Diego.
+<!--
 - 👯 &nbsp; Currently I’m looking for a software engineering internship for summer 2025!
+-->
 <!--
 <h3>🛠 &nbsp;Tech Stack </h3>
 
